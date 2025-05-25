@@ -23,4 +23,11 @@ Smart Loan Recovery is a machine learning-based project designed to help financi
 - Includes features like income, credit score, loan tenure, employment type, etc.
 
 ## 📂 Project Structure
-
+smart-loan-recovery/
+│
+├── data/ # Raw and processed data
+├── notebooks/ # Jupyter notebooks for exploration and modeling
+├── models/ # Trained models (Pickle format)
+├── streamlit_app/ # Optional: UI dashboard files
+├── utils/ # Helper functions for preprocessing
+└── README.md # Project documentation
